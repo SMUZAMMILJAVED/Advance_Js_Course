@@ -99,3 +99,20 @@
 // const age=+prompt("what is your age?");
 
 // console.log(`my name is ${name} and my age is ${age} and i am ${age>18?'eligible':'not Eligible'} for voting`);
+
+
+                  // destructring objects 
+
+// const obj={
+//     name:'muzammil',
+//     id:234
+// }
+// const{id,name}=obj
+// console.log(id);
+
+
+                  // destructring array 
+
+// const arr=[2,3,5,2,4]
+// const[a,b,,c]=arr
+// console.log(a,b,c);
